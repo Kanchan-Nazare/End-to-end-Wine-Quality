@@ -1,2 +1,2 @@
 from mlProject import logger
-logger.info("Welcome to  mlProject")
+logger.info("Welcome to  project")
